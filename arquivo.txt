@@ -1,2 +1,18 @@
 Teste
 Teste
+
+
+Editando
+
+
+
+Editando o arquivo
+
+Exemplo com git fetch
+
+
+
+
+nova linha
+
+Exemplo com git fetch
