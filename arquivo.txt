@@ -13,3 +13,4 @@ Exemplo com git fetch
 
 nova linha
 
+Exemplo com git fetch
